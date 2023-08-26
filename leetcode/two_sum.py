@@ -20,3 +20,4 @@ def two_sum_hash(nums, target):
         hash_table[nums[i]] = i
     return []
 
+
